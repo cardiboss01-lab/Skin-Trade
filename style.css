@@ -998,3 +998,23 @@ footer{
     }
 
 }
+
+.social-links a:nth-child(4):hover{
+    background:#25D366;
+}
+
+.house-calls-banner{
+    background:#c62828;
+    text-align:center;
+    padding:30px 20px;
+}
+
+.house-calls-banner h2{
+    margin-bottom:10px;
+    font-family:'Cinzel', serif;
+}
+
+.house-calls-banner p{
+    max-width:800px;
+    margin:auto;
+}
